@@ -1,0 +1,33 @@
+.menu{
+    background-color:#000000;
+    color:white;
+    font-size:25px;
+    display:flex;
+    justify-content:space-between;
+    padding:20px;
+}
+
+
+body{
+    background-color:#0F4C75;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    margin:20px;
+}
+
+.grid img{
+    border: 3px solid #ffffff;
+    border-radius: 30px;
+}
+
+.design{
+    border-radius: 20px;
+    background-color: #BBE1FA;
+    padding:40px;
+    margin:20px;
+    width:250px;
+}
